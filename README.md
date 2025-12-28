@@ -3,6 +3,12 @@
 A stylized **slash VFX** created using **Photoshop** for texture work and **Unity’s Particle System** for animation.  
 This effect is designed to be lightweight, reusable, and easy to drop into gameplay moments like attacks or ability hits.
 
+## 🎨 Texture Source
+
+This slash texture was hand-painted in Photoshop and used in the particle material.
+
+![Slash Texture](Assets/VFX Test/Slash.png)
+
 ## 🎥 Preview
 ![Slash VFX](Images/preview.gif)
 
