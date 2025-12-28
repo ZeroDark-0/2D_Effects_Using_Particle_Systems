@@ -1,0 +1,46 @@
+# VFX — Unity Slash Effect
+
+A stylized **slash VFX** created using **Photoshop** for texture work and **Unity’s Particle System** for animation.  
+This effect is designed to be lightweight, reusable, and easy to drop into gameplay moments like attacks or ability hits.
+
+## 🎥 Preview
+> *(Add a GIF or screenshot here)*  
+`/Images/preview.gif`
+
+## ✨ Features
+- Hand-drawn slash texture (Photoshop)  
+- Unity particle setup using a single optimized material  
+- Adjustable color, speed, and emission  
+- Performance-friendly for real-time gameplay
+
+## 🛠️ Tools & Tech
+- **Unity** (version: XX.X.X — fill yours in)
+- **Photoshop** — texture creation
+
+## 📂 Project Structure
+Assets/
+└── VFX Test/
+├── Slash.png # Texture
+├── M_fx_slash # Material
+├── FX_Slash_02 # Prefab (slash effect)
+└── exposure_object # Test object used to preview the effect
+
+## 🚀 How to Use
+1. Download or clone the project.  
+2. Open it in Unity.  
+3. Drag **FX_Slash_02** into your scene.  
+4. Tune particle values (lifetime, color, emission) to match your gameplay.
+
+## 🔧 Customization Tips
+- Edit **Slash.png** in Photoshop for new shapes or colors.  
+- Duplicate the prefab and layer multiple slashes for stronger impact.  
+- Lower particle count if you need extra performance.
+
+## 📌 What I Learned
+- Building game-ready textures for particles  
+- Setting up a reusable VFX prefab  
+- Balancing style with performance
+
+## 📄 License
+Free to use in personal projects.  
+For commercial use, credit is appreciated.
