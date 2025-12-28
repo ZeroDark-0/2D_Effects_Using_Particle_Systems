@@ -14,7 +14,7 @@ This effect is designed to be lightweight, reusable, and easy to drop into gamep
 - Performance-friendly for real-time gameplay
 
 ## 🛠️ Tools & Tech
-- **Unity** (version: XX.X.X — fill yours in)
+- **Unity** (Editor version: 6000.2.10f1)
 - **Photoshop** — texture creation
 
 ## 📂 Project Structure
@@ -22,10 +22,10 @@ This effect is designed to be lightweight, reusable, and easy to drop into gamep
 ```
 Assets/
 └── VFX Test/
-├── Slash.png # Texture
-├── M_fx_slash # Material
-├── FX_Slash_02 # Prefab (slash effect)
-└── exposure_object # Test object used to preview the effect
+├── Slash.png          # Texture
+├── M_fx_slash         # Material
+├── FX_Slash_02        # Prefab (slash effect)
+└── exposure_object    # Test object used to preview the effect
 ```
 
 ## 🚀 How to Use
@@ -38,6 +38,7 @@ Assets/
 - Edit **Slash.png** in Photoshop for new shapes or colors.  
 - Duplicate the prefab and layer multiple slashes for stronger impact.  
 - Lower particle count if you need extra performance.
+- Tweak the color of **Slash** from the **FX_slash_02** prefab and Sub Emitters.
 
 ## 📌 What I Learned
 - Building game-ready textures for particles  
