@@ -18,12 +18,15 @@ This effect is designed to be lightweight, reusable, and easy to drop into gamep
 - **Photoshop** — texture creation
 
 ## 📂 Project Structure
+
+```
 Assets/
 └── VFX Test/
 ├── Slash.png # Texture
 ├── M_fx_slash # Material
 ├── FX_Slash_02 # Prefab (slash effect)
 └── exposure_object # Test object used to preview the effect
+```
 
 ## 🚀 How to Use
 1. Download or clone the project.  
