@@ -52,3 +52,9 @@ Assets/
 ## 📄 License
 Free to use in personal projects.  
 For commercial use, credit is appreciated.
+
+## 📚 Learning Source
+
+This effect was created by following a tutorial.  
+I used the tutorial to learn particle setup, timing, and texture workflow, and then experimented with my own tweaks.
+
