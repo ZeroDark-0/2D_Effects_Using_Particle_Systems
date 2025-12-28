@@ -7,7 +7,7 @@ This effect is designed to be lightweight, reusable, and easy to drop into gamep
 
 This slash texture was hand-painted in Photoshop and used in the particle material.
 
-![Slash Texture](Assets/VFX Test/Slash.png)
+![Slash Texture](Images/Slash.png)
 
 ## 🎥 Preview
 ![Slash VFX](Images/preview.gif)
