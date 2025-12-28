@@ -4,8 +4,7 @@ A stylized **slash VFX** created using **Photoshop** for texture work and **Unit
 This effect is designed to be lightweight, reusable, and easy to drop into gameplay moments like attacks or ability hits.
 
 ## 🎥 Preview
-> *(Add a GIF or screenshot here)*  
-`/Images/preview.gif`
+![Slash VFX](Images/preview.gif)
 
 ## ✨ Features
 - Hand-drawn slash texture (Photoshop)  
@@ -41,7 +40,6 @@ Assets/
 - Tweak the color of **Slash** from the **FX_slash_02** prefab and Sub Emitters.
 
 ## 📌 What I Learned
-- Building game-ready textures for particles  
 - Setting up a reusable VFX prefab  
 - Balancing style with performance
 
